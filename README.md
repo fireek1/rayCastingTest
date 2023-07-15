@@ -1,2 +1,2 @@
-# rayMarchingTest
-реймарчинг в JS с помощью canvas
+# rayCastingTest
+рейкастинг в JS с помощью canvas
